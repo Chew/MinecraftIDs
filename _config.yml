@@ -1,0 +1,13 @@
+---
+title: MinecraftIDs
+description: >
+  Welcome to MinecraftIDs. We hope you find what you're looking for.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: chewcraft
+github_username:  chewsterchew
+
+markdown: kramdown
+theme: chew-theme-minecraftids
+plugins:
+  - jekyll-feed
