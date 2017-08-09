@@ -8,6 +8,6 @@ twitter_username: chewcraft
 github_username:  chewsterchew
 
 markdown: kramdown
-theme: chew-theme-minecraftids
+theme: Minima
 plugins:
   - jekyll-feed
