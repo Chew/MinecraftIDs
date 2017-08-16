@@ -1,7 +1,6 @@
 ---
-layout: info
+layout: main
 title: About
-permalink: /about/
 ---
 
 ## About Minecraft

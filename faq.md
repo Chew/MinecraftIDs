@@ -1,7 +1,6 @@
 ---
-layout: info
+layout: main
 title: FAQ
-permalink: /faq/
 ---
 
 ## What are block and item ids?
