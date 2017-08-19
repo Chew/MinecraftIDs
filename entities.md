@@ -3,6 +3,9 @@ layout: main
 title: Entities and Mobs IDs
 ---
 
+<input type="text" id="findblocks" onkeyup="lookWords()" placeholder="Search for entities..">
+
+{:#blocks}
 ID | Name/Text-Based ID
 :------:|:------------------
 1 | Dropped Item<br/>(minecraft:item)
