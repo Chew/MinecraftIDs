@@ -208,6 +208,10 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
     padding: 12px; /* Add padding */
 }
 
+th {
+  background-color: #f1f1f1;
+}
+
 #block tr {
     /* Add a bottom border to all table rows */
     border-bottom: 1px solid #ddd;
